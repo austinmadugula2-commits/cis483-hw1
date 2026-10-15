@@ -1,0 +1,1 @@
+HW1 notes: learned how Git commits work
